@@ -6,7 +6,7 @@ This repo fixes that by:
 
 - Provides the proper stub libraries for use with Retro68 (`lib`)
 - Provides the header files from Apple's original OpenGL SDK (`include`)
-- Provides an example on how to use OpenGL using glut, using Apple's "agl" functions instead (`examples`)
+- Provides an example on how to use OpenGL without glut, using Apple's "agl" functions instead (`examples`)
 
 To build said example:
 
